@@ -6,7 +6,7 @@ metadata:
     "fortiweb-ip" : "10.0.100.133",
     "fortiweb-login" : "fwb-login",
     "fortiweb-ctrl-log" : "enable",
-    "virtual-server-ip" : "172.23.133.10",
+    "virtual-server-ip" : "172.23.133.11",
     "virtual-server-addr-type" : "ipv4",
     "virtual-server-interface" : "port1",
     "server-policy-web-protection-profile" : "Inline Standard Protection",
