@@ -18,7 +18,9 @@ metadata:
 spec:
  ingressClassName: fwb-ingress-controller
  tls:
-  secretName: minikube-secret
+ - hosts:
+   - minikube.fortinet.demo
+   secretName: minikube-secret
  rules:
  - http:
     paths:
