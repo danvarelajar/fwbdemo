@@ -11,7 +11,7 @@ metadata:
     "virtual-server-interface" : "port1",
     "server-policy-web-protection-profile" : "Inline Standard Protection",
     "server-policy-http-service" : "HTTP",
-    "server-policy-http-service" : "HTTPS",
+    "server-policy-https-service" : "HTTPS",
     "server-policy-syn-cookie" : "enable",
     "server-policy-http-to-https" : "enable"
 }
