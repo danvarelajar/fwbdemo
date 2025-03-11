@@ -1,7 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: minimal-ingress
+  name: minimal-ingress-tls
   annotations: {
     "fortiweb-ip" : "10.0.100.133",
     "fortiweb-login" : "fwb-login",
